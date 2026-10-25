@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+# Local MLflow server data
+mlflow.db
+mlruns/
+mlartifacts/
+*.log
+*.pdf
